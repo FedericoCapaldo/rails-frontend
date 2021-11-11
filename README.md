@@ -1,24 +1,3 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Basic Rails application to show `Rails Frontend` concepts from [the Frontend LeWagon class](https://kitt.lewagon.com/camps/752/lectures/05-Rails%2F04-Rails-mister-cocktail).
